@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClayArch
+- 👋 Hi, I’m Clay
 - 👀 I’m interested in ... AI and internet safety
 - 🌱 I’m currently learning ... cybersecurity and network technology
 - 💞️ I’m looking to collaborate on ... anything to help me learn pretty much
