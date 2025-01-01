@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything to help me learn pretty much
 - 📫 How to reach me ... via email or Discord
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I am really good at card games lol
+- ⚡ Fun fact: ... I am really good at card games!
 
 <!---
 ClayArch/ClayArch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
